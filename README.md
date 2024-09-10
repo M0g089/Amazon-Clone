@@ -97,9 +97,6 @@ Contributions are welcome! To contribute:
 
 Please ensure your code adheres to the project's coding style and standards.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact Information
 
